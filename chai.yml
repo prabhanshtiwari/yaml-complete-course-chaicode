@@ -1,0 +1,24 @@
+chai_type: masala_chai # inline comment
+temperature: hot
+servings: 2
+brewing_time: 5
+
+
+chai_recipe: 
+  base: black_tea
+  milk: whole_milk
+
+chai_receipe_two:
+  base: black_tea
+  milk: whole_milk
+
+
+chai_name: Masala Chai
+description: "Chai with cardamon, ginger"
+tagline: 'The best chai in town'
+
+brewing_instructions: |
+  boil water
+  add tea leaves
+  add milk
+
